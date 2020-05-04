@@ -13,4 +13,4 @@ Here are some scripts to give you access to Tinder Gold walled off stuff. I will
 
 ##Tinder Gold Profile Picture Lister:
 
-1. Do what I said above or paste the contents of <a href="https://raw.githubusercontent.com/deltabravozulu/tindergold/master/tinderGoldPhotoDumper.js>this file</a>t into your <a href="https://developers.google.com/web/tools/chrome-devtools/open">Chrome Dev Console</a>
+1. Do what I said above or paste the contents of <a href="https://raw.githubusercontent.com/deltabravozulu/tindergold/master/tinderGoldPhotoDumper.js">this file</a> into your <a href="https://developers.google.com/web/tools/chrome-devtools/open">Chrome Dev Console</a>
